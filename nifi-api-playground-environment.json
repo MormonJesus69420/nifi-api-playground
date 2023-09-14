@@ -1,0 +1,58 @@
+{
+	"id": "565792b4-82ed-4d65-867a-e58e04c0e1f9",
+	"name": "nifi-api-playground-environment",
+	"values": [
+		{
+			"key": "base-url",
+			"value": "https://localhost:9443/nifi-api",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "username",
+			"value": "daniels",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "password",
+			"value": "123qweasdzxc",
+			"type": "secret",
+			"enabled": true
+		},
+		{
+			"key": "access-token",
+			"value": "eyJraWQiOiI0ODg2NWU3My1mYWJmLTQ5MGMtYmIyMC0xNTQzNDRjMWZlYzciLCJhbGciOiJQUzUxMiJ9.eyJzdWIiOiJkYW5pZWxzIiwiYXVkIjoiU2luZ2xlVXNlckxvZ2luSWRlbnRpdHlQcm92aWRlciIsIm5iZiI6MTY5NDY3Njc0NiwiaXNzIjoiU2luZ2xlVXNlckxvZ2luSWRlbnRpdHlQcm92aWRlciIsImdyb3VwcyI6W10sInByZWZlcnJlZF91c2VybmFtZSI6ImRhbmllbHMiLCJleHAiOjE2OTQ3MDU1NDYsImlhdCI6MTY5NDY3Njc0NiwianRpIjoiOGQzZjdlN2EtNjgzNC00ZTQ1LWIwZGEtZmI5NWU5ODgwOTFiIn0.SNHSIn_iwCAf0S7ujEf38POSB_oLig9BrxIaJ57i8CHnWZ2l8HJJxq3lknKb_zzx9PhWQ8gEQx8w5Qg-XmGnuAqlcWM52lEnazst4UDz_ps-g9IjgUaM9OrULKl8VFF-v4GG3nFNEO_6Broc_85VXdkvtzm_S55buIPxUrLgqEb3reDWvkq4Qt4ThUWVDc2iGC_EyoHY0fNasEPdjxEJ5IkpDvJ1H8mfwZHjx0n7m3Vv5N-0sqv2OD_O-1Z_k4LcBZewSYcB-MYzCMwQ_wMDWXgv8DtwESLo3y1wDAP5qaMxRuBGPaqxfWOXZSv28qJsZUtzsdrgIvCISJ18xPVj5vEcnRiX_HSeFuxzabeiJbBNhood8XCPI9zqSv0-2IsVq1yT3vOTyVnPMi6UgFr54BwQCXyXKHxc0QwMUwW4RcqxUAYggITw1x3V6bCl6fFEbl3C6S1VmFPeh_76zArikoch4B8DjHbTh2Mzw-pwflgPwisYsdS2Z8o2p4ZV0jPYzwCk1uYySEcxTD70GuXuic5Eau6E8_01G7BQT91zmcOo_Js1WumO1Gv7XbzAXyDcqr3klklbI88hcsXNfyNmuPcMiqVtGSjEe7GqzJuP60AhxUIgNvmEUlXpGRrXlUfUwiKiZrbQ1FafCg4GXVF0PHqBasr8CqjlP6DqQ-WOWJo",
+			"type": "secret",
+			"enabled": true
+		},
+		{
+			"key": "connection-id",
+			"value": "6a3a8f39-018a-1000-5f52-795073c622c4",
+			"enabled": true
+		},
+		{
+			"key": "listing-request-id",
+			"value": "8d6ce287-018a-1000-480d-2f766b5705b0",
+			"enabled": true
+		},
+		{
+			"key": "flowfile-id",
+			"value": "03150786-f970-40ee-9e40-e33e19c3c701",
+			"enabled": true
+		},
+		{
+			"key": "provenance-request-id",
+			"value": "8d6e2b90-018a-1000-866c-dce661f59e2f",
+			"enabled": true
+		},
+		{
+			"key": "provenance-event-id",
+			"value": "13235",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2023-09-14T08:35:32.239Z",
+	"_postman_exported_using": "Postman/10.17.7"
+}
